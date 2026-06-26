@@ -6,7 +6,7 @@ export default function Footer() {
       <div>
         Powered by{' '}
         <a
-          href="https://togetherai.link"
+          href="https://togetherai.link/?utm_source=twitterbio&utm_medium=referral&utm_campaign=example-app"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
